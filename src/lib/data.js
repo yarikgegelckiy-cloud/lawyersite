@@ -52,7 +52,7 @@ export const allServices = [
 ];
 
 export const team = [
-  { name: "Олександр Коваленко", role: "Старший Партнер\nАдвокат", image: "/office-portrait.jpg" },
+  { name: "Олександр Коваленко", role: "Старший Партнер\nАдвокат", image: "/lawyersite/office-portrait.jpg" },
   { name: "Марія Мельник", role: "Партнер\nСімейне Право", image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=200&auto=format&fit=crop" }
 ];
 
