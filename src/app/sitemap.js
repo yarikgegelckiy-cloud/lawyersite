@@ -1,5 +1,7 @@
 import { allServices } from "../lib/data";
 
+export const dynamic = 'force-static';
+
 export default function sitemap() {
   const baseUrl = 'https://law-platform.ua'; // Тимчасовий домен
 
